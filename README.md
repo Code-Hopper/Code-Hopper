@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Amey Khondekar @Code-Hopper
+- 👀 I’m interested in All Kind of Programming Stuff
+- 🌱 I’m currently learning Linux
+- 📫 How to reach me ameykhondekar01@gmail.co
