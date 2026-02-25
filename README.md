@@ -1,5 +1,5 @@
-👋 Hi, I’m Amey Khondekar (Code-Hopper)
-🧑‍💻 Full-Stack Developer passionate about building web apps, mobile apps, and scalable systems
-🚀 MERN | Java | Python | React | Node.js
-📚 Constantly learning & exploring new technologies
+👋 I’m Amey Khondekar
+Founder mindset. Developer execution.
+I design, build & scale real-world tech solutions.
+MERN • Java • APIs • System Architecture
 📬 ameykhondekar01@gmail.com
