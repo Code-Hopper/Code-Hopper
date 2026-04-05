@@ -69,22 +69,10 @@ A passionate **Full Stack Developer** who loves building scalable applications a
 
 # 📊 GitHub Stats:
 
-![Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Code-Hopper\&show_icons=true\&theme=tokyonight\&hide_border=true)
-
 ![Streak](https://streak-stats.demolab.com?user=Code-Hopper\&theme=tokyonight\&hide_border=true)
-
-![Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Code-Hopper\&layout=compact\&theme=tokyonight\&hide_border=true)
-
-## 🏆 GitHub Trophies
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=Code-Hopper\&theme=radical\&no-frame=true\&no-bg=true\&margin-w=4)
 
 ## 🔥 Featured Projects:
 
 * ⚡ Smart Energy Monitoring System (ESP32 + Web Dashboard)
 * 🌐 Full Stack Web Applications (React + Node / Spring + PostgreSQL)
 * 🧠 AI-based Energy Optimization System
-
----
-
-![Visitors](https://visitcount.itsvg.in/api?id=Code-Hopper\&icon=0\&color=0)
