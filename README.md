@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 
 Hi, I'm **Amey Khondekar** 👋
 A passionate **Full Stack Developer** who loves building scalable applications and exploring how software interacts with hardware.
@@ -29,6 +29,7 @@ A passionate **Full Stack Developer** who loves building scalable applications a
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge\&logo=c\&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge\&logo=c%2B%2B\&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge\&logo=openjdk\&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge\&logo=typescript\&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge\&logo=python\&logoColor=ffdd54)
 
@@ -43,6 +44,7 @@ A passionate **Full Stack Developer** who loves building scalable applications a
 
 ![Node.js](https://img.shields.io/badge/node.js-339933?style=for-the-badge\&logo=node.js\&logoColor=white)
 ![Express](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge\&logo=express\&logoColor=%2361DAFB)
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge\&logo=spring\&logoColor=white)
 
 ### 🗄️ Databases
 
@@ -67,11 +69,11 @@ A passionate **Full Stack Developer** who loves building scalable applications a
 
 # 📊 GitHub Stats:
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Code-Hopper\&show_icons=true\&theme=tokyonight\&hide_border=true\&count_private=true)
+![Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Code-Hopper\&show_icons=true\&theme=tokyonight\&hide_border=true)
 
-![Streak](https://nirzak-streak-stats.vercel.app/?user=Code-Hopper\&theme=tokyonight\&hide_border=true)
+![Streak](https://streak-stats.demolab.com?user=Code-Hopper\&theme=tokyonight\&hide_border=true)
 
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Code-Hopper\&layout=compact\&theme=tokyonight\&hide_border=true)
+![Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Code-Hopper\&layout=compact\&theme=tokyonight\&hide_border=true)
 
 ## 🏆 GitHub Trophies
 
@@ -80,7 +82,7 @@ A passionate **Full Stack Developer** who loves building scalable applications a
 ## 🔥 Featured Projects:
 
 * ⚡ Smart Energy Monitoring System (ESP32 + Web Dashboard)
-* 🌐 Full Stack Web Applications (React + Node + PostgreSQL)
+* 🌐 Full Stack Web Applications (React + Node / Spring + PostgreSQL)
 * 🧠 AI-based Energy Optimization System
 
 ---
