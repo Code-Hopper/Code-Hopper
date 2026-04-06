@@ -4,7 +4,7 @@ A passionate **Full Stack Developer** who loves building scalable applications a
 🔧 I’m deeply interested in:
 
 * 🐧 Linux systems & low-level environments
-* ⚡ Electronics & embedded systems (ESP32, IoT)
+* ⚡ Electronics & embedded systems
 * 🌐 Computer networking & system design
 
 🚀 Currently:
