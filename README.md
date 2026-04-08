@@ -72,5 +72,4 @@ A passionate **Full Stack Developer** who loves building scalable applications a
 ## 🔥 Featured Projects:
 
 * ⚡ Smart Energy Monitoring System (ESP32 + Web Dashboard)
-* 🌐 Full Stack Web Applications (React + Node / Spring + PostgreSQL)
 * 🧠 AI-based Energy Optimization System
