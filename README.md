@@ -68,8 +68,3 @@ A passionate **Full Stack Developer** who loves building scalable applications a
 # 📊 GitHub Stats:
 
 ![Streak](https://streak-stats.demolab.com?user=Code-Hopper\&theme=tokyonight\&hide_border=true)
-
-## 🔥 Featured Projects:
-
-* ⚡ Smart Energy Monitoring System (ESP32 + Web Dashboard)
-* 🧠 AI-based Energy Optimization System
