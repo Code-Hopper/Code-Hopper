@@ -11,7 +11,6 @@ A passionate **Full Stack Developer** who loves building scalable applications a
 
 * Building full stack applications across modern tech stacks
 * Working on IoT + Web integration projects
-* Exploring backend systems, APIs, and performance optimization
 
 💡 I enjoy combining **software + hardware + networking** to create real-world solutions.
 
