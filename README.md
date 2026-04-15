@@ -7,7 +7,7 @@ A passionate **Full Stack Developer** who loves building scalable applications a
 * ⚡ Electronics & embedded systems
 * 🌐 Computer networking & system design
 
-🚀 Currently:
+🚀 Currently
 
 * Building full stack applications across modern tech stacks
 * Working on IoT + Web integration projects
@@ -62,6 +62,6 @@ A passionate **Full Stack Developer** who loves building scalable applications a
 ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge\&logo=apache\&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge\&logo=git\&logoColor=white)
 
-# 📊 GitHub Stats:
+# 📊 GitHub Stats
 
 ![Streak](https://streak-stats.demolab.com?user=Code-Hopper\&theme=tokyonight\&hide_border=true)
