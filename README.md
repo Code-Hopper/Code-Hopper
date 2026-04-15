@@ -14,7 +14,7 @@ A passionate **Full Stack Developer** who loves building scalable applications a
 
 💡 I enjoy combining **software + hardware + networking** to create real-world solutions.
 
-## 🌐 Socials:
+## 🌐 Socials
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin\&logoColor=white)](https://linkedin.com/in/amey-khondekar)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail\&logoColor=white)](mailto:ameykhondekar01@gmail.com)
