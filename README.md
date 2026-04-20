@@ -7,7 +7,7 @@ A passionate **Full Stack Developer** who loves building scalable applications a
 * ⚡ Electronics & embedded systems
 * 🌐 Computer networking & system design
 
-🚀 Currently:
+🚀 Currently
 
 * Building full stack applications across modern tech stacks
 * Working on IoT + Web integration projects
