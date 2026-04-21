@@ -63,4 +63,4 @@ A passionate **Full Stack Developer** who loves building scalable applications a
 
 # 📊 GitHub Stats
 
-![Streak](https://streak-stats.demolab.com?user=Code-Hopper\&theme=tokyonight\&hide_border=true)
+![Streak](https://streak-stats.demolab.com?user=Code-Hopper&theme=tokyonight&hide_border=true&cache_seconds=1)
