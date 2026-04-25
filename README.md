@@ -17,7 +17,7 @@ A passionate **Full Stack Developer** who loves building scalable applications a
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin\&logoColor=white)](https://linkedin.com/in/amey-khondekar)
 
-# 💻 Tech Stack:
+# 💻 Tech Stack
 
 ### 👨‍💻 Languages
 
