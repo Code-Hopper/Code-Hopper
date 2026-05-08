@@ -13,11 +13,11 @@ A passionate **Full Stack Developer** who loves building scalable applications a
 
 💡 I enjoy combining **software + hardware + networking** to create real-world solutions.
 
-## 🌐 Socials
+### 🌐 Socials
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin\&logoColor=white)](https://linkedin.com/in/amey-khondekar)
 
-# 💻 Tech Stack
+### 💻 Tech Stack
 
 ### 👨‍💻 Languages
 
@@ -59,6 +59,6 @@ A passionate **Full Stack Developer** who loves building scalable applications a
 ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge\&logo=apache\&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge\&logo=git\&logoColor=white)
 
-# 📊 GitHub Stats
+### 📊 GitHub Stats
 
 ![Streak](https://streak-stats.demolab.com?user=Code-Hopper&theme=tokyonight&hide_border=true&cache_seconds=1)
