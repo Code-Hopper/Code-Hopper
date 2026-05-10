@@ -1,5 +1,4 @@
-Hi, I'm 
-###**Amey Khondekar** 👋
+Hi, I'm **Amey Khondekar** 👋
 A passionate **Full Stack Developer** who loves building scalable applications and exploring how software interacts with hardware.
 
 🔧 I’m deeply interested in
