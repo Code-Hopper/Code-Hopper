@@ -6,11 +6,6 @@ I’m deeply interested in
 * ⚡ Electronics & embedded systems
 * 🌐 Computer networking & system design
 
-🚀 Currently :
-
-* Building full stack applications across modern tech stacks
-* Working on IoT + Web integration projects
-
 💡 I enjoy combining **software + hardware + networking** to create real-world solutions.
 
 ### 🌐 Socials
