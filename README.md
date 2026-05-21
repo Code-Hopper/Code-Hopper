@@ -56,6 +56,6 @@ I’m deeply interested in
 
 ### 📊 GitHub Stats
 
-!streak(https://streak-stats.demolab.com?user=Code-Hopper&theme=tokyonight&hide_border=true&cache_seconds=1)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Code-Hopper&theme=radical&hide_border=true&border_radius=10)](https://git.io/streak-stats)
 
 Let's Connect ameykhondekar01@gmail.com
