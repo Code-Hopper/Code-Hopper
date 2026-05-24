@@ -8,10 +8,6 @@ I’m deeply interested in
 
 💡 I enjoy combining **software + hardware + networking** to create real-world solutions.
 
-### 🌐 Socials
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin\&logoColor=white)](https://linkedin.com/in/amey-khondekar)
-
 ### 💻 Tech Stack
 
 ### 👨‍💻 Languages
