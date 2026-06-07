@@ -4,7 +4,6 @@ A passionate **Full Stack Developer** who loves building scalable applications a
 I’m deeply interested in
 * 🐧 Linux systems & environments
 * 🌐 Computer networking & system design
-* ⚡ Electronics & embedded systems
 
 💡 I enjoy combining **software + hardware + networking** to create real-world solutions.
 
